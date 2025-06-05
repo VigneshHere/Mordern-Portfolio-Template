@@ -1,17 +1,19 @@
-# 🌟 Modern Developer Portfolio Starter
+#  Modern Developer Portfolio Starter
+
+
 
 Build your online presence with this polished, responsive portfolio template — perfect for web developers, designers, and freelancers.
 
-### 🎯 Features
+###  Features
 - Responsive design with Bootstrap 5
 - Animated scroll & interactive sliders (AOS, Swiper)
 - Portfolio filters
 - Clean, modern UI/UX
 
-### 🚀 Live Demo
+###  Live Demo
 [Add your deployed Netlify/Vercel link here]
 
-### 📦 What's Inside
+###  What's Inside
 - HTML, CSS, JS files
 - Pre-linked assets & images
 - Easy to customize layout
@@ -19,4 +21,4 @@ Build your online presence with this polished, responsive portfolio template —
 
 ---
 
-🛠️ Built as part of the **"From Zero to Web Hero"** YouTube series by [RestartCreatively](https://youtube.com/@RestartCreatively).
+ Built as part of the **"From Zero to Web Hero"** YouTube series by [RestartCreatively](https://youtube.com/@RestartCreatively).
