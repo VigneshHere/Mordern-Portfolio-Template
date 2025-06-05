@@ -1,5 +1,6 @@
 #  Modern Developer Portfolio Starter
 
+![portfolio-thumbnail](https://github.com/user-attachments/assets/11b0d059-d62e-4bba-9cf5-eff69fc6c5fc)
 
 
 Build your online presence with this polished, responsive portfolio template — perfect for web developers, designers, and freelancers.
