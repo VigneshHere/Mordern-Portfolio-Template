@@ -12,7 +12,7 @@ Build your online presence with this polished, responsive portfolio template —
 - Clean, modern UI/UX
 
 ###  Live Demo
-[Add your deployed Netlify/Vercel link here]
+
 
 ###  What's Inside
 - HTML, CSS, JS files
